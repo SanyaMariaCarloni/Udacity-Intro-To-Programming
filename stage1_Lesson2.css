@@ -58,31 +58,9 @@ body {
 
 }
 
-
-.lesson-description-boxsizing {
-    background-color: #99ccff;
-    border-radius: 10px;
-    color: #000000;
-    padding: 10px;
-    text-align: wrap;
-}
-
-
-.img {
-    background-color: #99ccff;
-    border-radius: 20px;
-    color: #000000;
-    padding: 20px;
-    margin-right: 10px; 
-
-}
-
-.lesson-description-positioning {
-    background-color: #99ccff;
-    border-radius: 20px;
-    color: #000000;
-    padding: 10px;
-    text-align: wrap;
+.image1 {
+    margin: 0 auto;
+    float: left;
 }
 
 </style>
